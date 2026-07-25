@@ -1,7 +1,8 @@
 streamlit
 scikit-learn
 pandas
-spacy
+numpy<2.0.0
+spacy==3.7.5
 pdfplumber
 python-docx
 pillow
